@@ -49,7 +49,7 @@ This project ensures secure and transparent pharmaceutical data management using
 
 ## 📬 Contact Me
 
-📧 Email: your-email@example.com  
+📧 Email: ranjithbaddenapalli411@gmail.com  
 🔗 GitHub: https://github.com/Ranjith-411  
 
 ---
